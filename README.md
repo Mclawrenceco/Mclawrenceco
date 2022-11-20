@@ -7,7 +7,7 @@ Frontend developer
 I've always had a thing for coding since I was like 17 but I haven't really taken it up till 2020 and I've going hard at it since then.
 
 * 🌍  I'm based in Abuja
-* ✉️  You can contact me at [tundeafoo22@gmail.com](mailto:tundeafoo22@gmail.com)
+* ✉️  You can reach me through [Email](mailto:tundeafoo22@gmail.com)
 * 🧠  I'm learning Frontend web development using HTML, CSS, JavaScript and React
 * 🤝  I'm open to collaborating on Anything.
 
