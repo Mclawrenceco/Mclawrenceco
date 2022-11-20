@@ -1,13 +1,13 @@
-Hello. 👋 My name is Babatunde Afolabi.
+Hello.😀 My name is Babatunde Afolabi.
 ==================================
 
-Frontend developer
+I'm a Frontend Developer.
 ------------------
 
-I've always had a thing for coding since I was like 17 but I haven't really taken it up till 2020 and I've going hard at it since then.
+I've always had a thing for tech and coding since I was like 17 but I haven't really taken it up till 2020 and I've been going hard at it since then.
 
 * 🌍  I'm based in Abuja
-* ✉️  You can reach me through [Email](mailto:tundeafoo22@gmail.com)
+* ✉️  You can reach me through my [email](mailto:tundeafoo22@gmail.com)
 * 🧠  I'm learning Frontend web development using HTML, CSS, JavaScript and React
 * 🤝  I'm open to collaborating on Anything.
 
