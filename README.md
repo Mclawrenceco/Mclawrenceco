@@ -1,4 +1,4 @@
-Hello.😀 My name is Babatunde Afolabi.
+Hello. My name is Babatunde Afolabi.
 ==================================
 
 I'm a Frontend Developer.
