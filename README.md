@@ -6,10 +6,10 @@ I'm a Frontend Developer.
 
 I've always had a thing for tech and coding since I was like 17 but I haven't really taken it up till 2020 and I've been going hard at it since then.
 
-* 🌍  I'm based in Abuja
+* 🌍  Abuja, Nigeria
 * ✉️  You can reach me through my [email](mailto:tundeafoo22@gmail.com)
-* 🧠  I'm learning Frontend web development using HTML, CSS, JavaScript and React
-* 🤝  I'm open to collaborating on Anything.
+* 🧠  Currently studying and practicing Frontend development using HTML, CSS, JavaScript and React
+* 🤝  Please feel free to reach out to me let's exchange ideas.
 
 <a href="https://www.twitter.com/mclawrenceco" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/mclawrenceco?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
