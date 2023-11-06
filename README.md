@@ -8,7 +8,7 @@ Trying everyday to get better at what I do.
 
 * 🌍  Abuja, Nigeria
 * ✉️  You can reach me through my [email](mailto:tundeafoo22@gmail.com)
-* 🧠  Currently studying and practicing Frontend development using HTML, CSS, JavaScript and React
+* 🧠  Currently studying cloud computing.
 * 🤝  Please feel free to reach out to me let's exchange ideas.
 
 <a href="https://www.twitter.com/mclawrenceco" target="_blank" rel="noreferrer"><img
