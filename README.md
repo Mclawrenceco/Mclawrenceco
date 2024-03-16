@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2015<br>📚 I'm currently learning full-stack development and cloud computing.<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2015<br>📚 I'm currently learning full-stack development and cloud computing.<br>🎯 </p>
 
 ###
 
