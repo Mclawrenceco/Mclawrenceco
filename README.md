@@ -47,8 +47,4 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://imgflip.com/i/3bga1e"  />
-</div>
-
 ###
