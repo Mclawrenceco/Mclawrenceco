@@ -47,10 +47,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mclawrenceco/mclawrenceco/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img height="200" src="https://imgflip.com/i/3bga1e"  />
 </div>
