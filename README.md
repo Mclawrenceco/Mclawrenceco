@@ -10,7 +10,9 @@
 
 ###
 
-<p align="left">✨ We've been creating bugs since 2015<br>📚 I'm currently learning full-stack development and cloud computing.<br>🎯 I aim to break the internet, not by posting selfies but by crafting code so brilliant, even my bugs will win awards.</p>
+<p align="left">✨ We've been creating bugs since 2015<br>📚 I'm currently learning full-stack development and cloud computing.<br>🎯 I aim to break the internet, not by posting selfies but by crafting code so brilliant, even my bugs will win awards. check out my [portfolio](https://mclawrenceco.github.io/fluffy-lamp/).
+
+.</p>
 
 ###
 
