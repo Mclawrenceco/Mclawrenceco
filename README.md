@@ -10,9 +10,7 @@
 
 ###
 
-<p align="left">✨ We've been creating bugs since 2015<br>📚 I'm currently learning full-stack development and cloud computing.<br>🎯 I aim to break the internet, not by posting selfies but by crafting code so brilliant, even my bugs will win awards. [portfolio]b(https://shorturl.at/xurrd)
-
-.</p>
+<p align="left">✨ We've been creating bugs since 2015<br>📚 I'm currently learning full-stack development and cloud computing.<br>🎯 I aim to break the internet, not by posting selfies but by crafting code so brilliant, even my bugs will win awards. <a href="https://shorturl.at/xurrd">portfolio</a>.</p>
 
 ###
 
